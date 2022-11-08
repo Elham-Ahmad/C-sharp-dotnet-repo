@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ConsoleApp1/.vs/ConsoleApp1
+/ConsoleApp1/obj
+/ConsoleApp1/ConsoleApp1.csproj
+/ConsoleApp1/ConsoleApp1.sln
