@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6FRXzHjhV2zViFkq7/9V5NKdsvRabbSOZJb/fjA3TvRmXxNTr91Fws5MxuNICGoGhgWXovxb6rbDyuRdgm3ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elham.Ahmad\\source\\repos\\C-sharp-dotnet-repo\\CalculateClassLibrary2\\CalculateClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
