@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8sLLPPjhTD3PH48uw1KXwc2Ql30WnQ/wT+C9z/jtIGNVY6OJg6Op+1/Lbw/x1QF2dlRI8L32smVLw38R4UnxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elham.Ahmad\\source\\repos\\C-sharp-dotnet-repo\\WebApplicationCore\\WebApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\calculateclasslibrary\\1.0.0\\calculateclasslibrary.1.0.0.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
