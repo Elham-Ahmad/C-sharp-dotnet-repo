@@ -45,7 +45,7 @@ namespace DapperCRUD.Controllers
 
         //update 
 
-        [HttpPut("{id}")]
+        [HttpPut("/{id}")]
 
         public void Put(int id , [FromBody] Employee employee)
         {
