@@ -1,0 +1,16 @@
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\bin\Debug\netcoreapp3.1\DesktopApp(Core).exe
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\bin\Debug\netcoreapp3.1\DesktopApp(Core).deps.json
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\bin\Debug\netcoreapp3.1\DesktopApp(Core).runtimeconfig.json
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\bin\Debug\netcoreapp3.1\DesktopApp(Core).runtimeconfig.dev.json
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\bin\Debug\netcoreapp3.1\DesktopApp(Core).dll
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\bin\Debug\netcoreapp3.1\DesktopApp(Core).pdb
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).csproj.AssemblyReference.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp_Core_.Form1.resources
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).csproj.GenerateResource.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).AssemblyInfoInputs.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).AssemblyInfo.cs
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).csproj.CoreCompileInputs.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).dll
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).pdb
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Core)\obj\Debug\netcoreapp3.1\DesktopApp(Core).genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rPnH7Hbm3WlyECRNFUTo+jpR0wzpY5lt5zaNrkbOJNoj1H1n1y7rXub+Tx9AwZuDJDp7eiWlCiXJX3Hyviyeig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elham.Ahmad\\source\\repos\\C-sharp-dotnet-repo\\DesktopApp(Core)\\DesktopApp(Core).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

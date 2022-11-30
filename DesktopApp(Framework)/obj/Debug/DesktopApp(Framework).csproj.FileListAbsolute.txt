@@ -1,0 +1,11 @@
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\bin\Debug\DesktopApp(Framework).exe.config
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\bin\Debug\DesktopApp(Framework).exe
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\bin\Debug\DesktopApp(Framework).pdb
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp(Framework).csproj.AssemblyReference.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp(Framework).csproj.SuggestedBindingRedirects.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp_Framework_.Form1.resources
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp_Framework_.Properties.Resources.resources
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp(Framework).csproj.GenerateResource.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp(Framework).csproj.CoreCompileInputs.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp(Framework).exe
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\DesktopApp(Framework)\obj\Debug\DesktopApp(Framework).pdb
