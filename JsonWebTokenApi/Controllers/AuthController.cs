@@ -1,8 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.JsonWebTokens;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
+
 
 namespace JsonWebTokenApi.Controllers
 {
@@ -12,6 +16,14 @@ namespace JsonWebTokenApi.Controllers
     {
         //User object to store username,passwordhash and passwordSalt
         public static User user = new User();
+        private readonly IConfiguration _configuration;
+
+        public AuthController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+
+        }
+
 
         // Register User api
         [HttpPost("register")]
@@ -41,7 +53,7 @@ namespace JsonWebTokenApi.Controllers
                 return BadRequest("wrong password");
             }
             string token = CreateToken(user);
-            return Ok("my crazy token");
+            return Ok(token);
         }
 
         private string CreateToken (User user)
@@ -51,9 +63,19 @@ namespace JsonWebTokenApi.Controllers
                 new Claim(ClaimTypes.Name,user.Username)
 
             };
-            var key = new SymmetricSecurityKey ()
+            var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(
+                _configuration.GetSection("AppSettings:Token").Value));
 
-            return string.Empty;
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
+
+            var token = new JwtSecurityToken(
+                claims: claims,
+                expires: DateTime.Now.AddDays(1),
+                signingCredentials: creds
+                );
+
+            var jwt = new JwtSecurityTokenHandler().WriteToken(token);
+            return jwt;
         }
 
         //Creating passwordHash method which is using cryptography algorithm (HMAC)
