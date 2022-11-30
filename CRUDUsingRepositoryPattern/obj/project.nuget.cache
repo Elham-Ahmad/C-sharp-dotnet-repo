@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxXB2PEX02ZI2WjV7fbqAFY/QQV3pxyt19RjItE/U4GsOmywK8nSyNipdMT0Md8D3/8gHW4cD2307344Fxj6Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elham.Ahmad\\source\\repos\\C-sharp-dotnet-repo\\CRUDUsingRepositoryPattern\\CRUDUsingRepositoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Elham.Ahmad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
