@@ -1,0 +1,44 @@
+Difference between ConsoleApp(Core) and ConsoleApp(.Net Framework)
+
+# ConsoleApp(Core) :-
+___________________________________________________________________________________________________________
+
+->  Net Core is an open source.
+
+->  Works on the principle of “build once, run anywhere”. 
+    It is compatible with various operating systems — Windows, Linux, and Mac OS as it is cross-platform.
+
+-> .Net Core supports the development and implementation of micro-services 
+    and the user has to create a REST API for its implementation.
+
+-> .NET Core offers high performance and scalability.
+
+-> .NET Core is compatible with various operating systems — Windows, Linux, and Mac OS.
+
+-> .NET Core does not have features like Code Access Security.
+
+->  File structure consists of dependencies and packages folder.   
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
+
+
+# ConsoleApp(.NetFramework) :-
+___________________________________________________________________________________________________________
+
+->   Certain components of the .Net Framework are open source.
+
+->  .NET Framework is compatible with the windows operating system.
+     Although, it was developed to support software and applications on all operating systems.
+
+->  .Net Framework is less effective in comparison to .Net Core in terms of performance and scalability of applications.
+
+->  .Net Framework does not support the development and implementation of microservices but it supports the REST API services.
+
+->  .NET Framework is compatible only with the Windows operating system.
+
+->   Code access security feature is present in .NET Framework.
+
+->   File structure has Properties and References and App.cofig files.
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
