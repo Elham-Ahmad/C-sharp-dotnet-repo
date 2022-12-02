@@ -1,0 +1,10 @@
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\bin\Debug\netstandard2.0\CalculateClassLibrary2.deps.json
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\bin\Debug\netstandard2.0\CalculateClassLibrary2.dll
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\bin\Debug\netstandard2.0\CalculateClassLibrary2.pdb
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.AssemblyInfo.cs
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.dll
+C:\Users\Elham.Ahmad\source\repos\C-sharp-dotnet-repo\CalculateClassLibrary2\obj\Debug\netstandard2.0\CalculateClassLibrary2.pdb
